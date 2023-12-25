@@ -1,1 +1,1 @@
-# go-ci
+# Go CI
